@@ -1,0 +1,17 @@
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.deps.json
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Application.dll
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\Employee.66F3489C.Up2Date
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\refint\EmployeeManagement.Infrastructure.dll
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+D:\NewLearningCSharp\EmployeeManagement.Infrastructure\obj\Debug\net8.0\ref\EmployeeManagement.Infrastructure.dll
